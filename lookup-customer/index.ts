@@ -1,4 +1,4 @@
-// lookup-customer/index.ts
-// Looks up customer email from Stripe checkout session ID
-// Sends delivery email for sprint 2 products
-// Uses Supabase app password (hhficyaucdehazau) hardcoded
+// lookup-customer v1 — Sprint 2 post-payment email delivery
+// Requires STRIPE_SECRET_KEY set in Supabase Edge Function secrets
+// Uses same Gmail SMTP pattern as send-report
+// Products: burnout-reset, couples-clarity, firstgen-table

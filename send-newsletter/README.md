@@ -1,3 +1,3 @@
-# send-newsletter
-Uses GMAIL_APP_PASSWORD environment variable (Newsletter Automation app password)
-Do NOT hardcode this password here — it reads from Supabase env var
+# send-newsletter v10
+Uses GMAIL_APP_PASSWORD env var = Newsletter Automation app password (created Apr 11)
+DO NOT replace with Supabase app password — they are separate credentials
